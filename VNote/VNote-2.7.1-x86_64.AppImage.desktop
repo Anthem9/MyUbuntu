@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Exec=/opt/VNote/VNote-2.7.1-x86_64.AppImage
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[zh_CN]=VNote
+Name=VNote
+Comment[zh_CN]=MarkDown笔记管理
+Comment=MarkDown笔记管理
+Icon=/opt/VNote/vnote.png
