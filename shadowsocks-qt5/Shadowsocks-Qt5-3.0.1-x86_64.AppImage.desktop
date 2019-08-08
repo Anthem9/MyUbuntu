@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Exec=/opt/shadowsocks-qt5/Shadowsocks-Qt5-3.0.1-x86_64.AppImage
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[zh_CN]=Shadowsocks-qt5
+Name=Shadowsocks-qt5
+Comment[zh_CN]=基于QT5的SS客户端
+Comment=基于QT5的SS客户端
+Icon=/opt/shadowsocks-qt5/shadowsocks-qt5.png
