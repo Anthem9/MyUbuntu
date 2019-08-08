@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Exec=/opt/picgo/picgo-2.1.2-x86_64.AppImage
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[zh_CN]=PicGo
+Name=PicGo
+Comment[zh_CN]=图床工具
+Comment=图床工具
+GenericName[zh_CN]=图床工具
+Icon=/opt/picgo/logo.png
